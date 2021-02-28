@@ -9,8 +9,8 @@ In next step, it distort images by various noises. concurrently it produce annot
 
 you can see an image of extracted and distored line from word file:
 
-![UI](https://github.com/sasolp/OCR_DATASET_MAKER/blob/main/90.png)
+![UI](https://github.com/sasolp/OCR_DATASET_MAKER/blob/main/114.bmp)
 
 or
 
-![UI](https://github.com/sasolp/OCR_DATASET_MAKER/blob/main/90.png)
+![UI](https://github.com/sasolp/OCR_DATASET_MAKER/blob/main/90.bmp)
